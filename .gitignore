@@ -1,5 +1,2 @@
 /books
 /.envrc
-/flake.lock
-/flake.nix
-/nix/
